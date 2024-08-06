@@ -1,0 +1,56 @@
+RewriteEngine On
+
+ErrorDocument 404 /404.html
+
+Redirect 301 /drying-wet-ipad-pro/ /drying-wet-ipad-pro.html
+Redirect 301 /best-ipad-pro-case/ /best-ipad-pro-case.html
+Redirect 301 /block-ads-on-ipad-pro/ /block-ads-on-ipad-pro.html
+Redirect 301 /case-for-ipad-pro-12-9-clear-review/ /case-for-ipad-pro-12-9-clear-review.html
+Redirect 301 /connect-ipad-or-iphone-to-windows-computer/ /connect-ipad-or-iphone-to-windows-computer.html
+Redirect 301 /delete-browsing-history-on-ipad-pro/ /delete-browsing-history-on-ipad-pro.html
+Redirect 301 /does-lyft-app-work-on-ipad/ /does-lyft-app-work-on-ipad.html
+Redirect 301 /here-are-10-local-or-same-split-screen-ipad-games-device-co-op-games-for-your-ipad-with-control-support/ /here-are-10-local-or-same-split-screen-ipad-games-device-co-op-games-for-your-ipad-with-control-support.html
+Redirect 301 /how-to-find-the-mac-address-on-your-ipad/ /how-to-find-the-mac-address-on-your-ipad.html
+Redirect 301 /how-to-print-from-ipad-pro-using-easy-steps/ /how-to-print-from-ipad-pro-using-easy-steps.html
+Redirect 301 /how-to-unlock-a-disabled-iphone-ipad-without-itunes-or-icloud-or-computer/ /how-to-unlock-a-disabled-iphone-ipad-without-itunes-or-icloud-or-computer.html
+Redirect 301 /how-to-unlock-ipad-passcode-without-restore/ /how-to-unlock-ipad-passcode-without-restore.html
+Redirect 301 /instructions-for-use-ipad-pro-mount/ /instructions-for-use-ipad-pro-mount.html
+Redirect 301 /ipad-mini-4-battery-replacement/ /ipad-mini-4-battery-replacement.html
+Redirect 301 /ipad-pro-10-5-keeps-restarting-after-a-drop-what-is-causing-the-problem/ /ipad-pro-10-5-keeps-restarting-after-a-drop-what-is-causing-the-problem.html
+Redirect 301 /ipad-pro-12-9-inch-screen-repacement/ /ipad-pro-12-9-inch-screen-repacement.html
+Redirect 301 /ipad-pro-keyboard-cases/ /ipad-pro-keyboard-cases.html
+Redirect 301 /ipad-pro-or-macbook-air/ /ipad-pro-or-macbook-air.html
+Redirect 301 /ipad-pro-stylus-review/ /ipad-pro-stylus-review.html
+Redirect 301 /ipad-pro-with-keyboard/ /ipad-pro-with-keyboard.html
+Redirect 301 /keep-ipad-pro-runs-faster/ /keep-ipad-pro-runs-faster.html
+Redirect 301 /knowing-ipad-pro-how-use-two-apps/ /knowing-ipad-pro-how-use-two-apps.html
+Redirect 301 /maximize-ipad-pro-battery-life/ /maximize-ipad-pro-battery-life.html
+Redirect 301 /microphone-not-working-on-facetime-ipad/ /microphone-not-working-on-facetime-ipad.html
+Redirect 301 /operating-tips-and-why-your-ipad-is-gets-hot/ /operating-tips-and-why-your-ipad-is-gets-hot.html
+Redirect 301 /pelican-ipad-air-2-cases-review/ /pelican-ipad-air-2-cases-review.html
+Redirect 301 /personalized-ipad-pro-setup/ /personalized-ipad-pro-setup.html
+Redirect 301 /screen-mirroring-iphone-or-ipad-app-on-tv-with-stereo-sound/ /screen-mirroring-iphone-or-ipad-app-on-tv-with-stereo-sound.html
+Redirect 301 /simple-steps-lock-screen-rotation-ipad-pro/ /simple-steps-lock-screen-rotation-ipad-pro.html
+Redirect 301 /simple-steps-split-screen-ipad-pro/ /simple-steps-split-screen-ipad-pro.html
+Redirect 301 /smart-keyboard-folio-for-12-9-inch-ipad-pro-3rd-generation-us-english/ /smart-keyboard-folio-for-12-9-inch-ipad-pro-3rd-generation-us-english.html
+Redirect 301 /take-care-ipad-pro/ /take-care-ipad-pro.html
+Redirect 301 /this-ipad-pillow-is-my-honest-review/ /this-ipad-pillow-is-my-honest-review.html
+Redirect 301 /tips-tricks-caring-ipad-pro/ /tips-tricks-caring-ipad-pro.html
+Redirect 301 /transfer-apps-macbook-ipad-pro/ /transfer-apps-macbook-ipad-pro.html
+Redirect 301 /useful-ipad-pro-pencil-tips-tricks/ /useful-ipad-pro-pencil-tips-tricks.html
+Redirect 301 /want-one-rack-versus-another-because-its-just-ipad-pro-9-7-stand/ /want-one-rack-versus-another-because-its-just-ipad-pro-9-7-stand.html
+Redirect 301 /what-does-unlocked-ipad-mean/ /what-does-unlocked-ipad-mean.html
+Redirect 301 /what-is-the-action-button-on-the-ipad-and-how-to-fix-it/ /what-is-the-action-button-on-the-ipad-and-how-to-fix-it.html
+Redirect 301 /why-ipad-charging-slow/ /why-ipad-charging-slow.html
+Redirect 301 /ipad-pro-2021-best-storage-and-thunderbolt-hub-accessories/ /ipad-pro-2021-best-storage-and-thunderbolt-hub-accessories.html
+Redirect 301 /ipad-pro-specifications-and-features/ /ipad-pro-specifications-and-features.html
+Redirect 301 /terms-and-conditions/ /terms-and-conditions.html
+Redirect 301 /privacy-policy/ /privacy-policy.html
+Redirect 301 /sparklite-1-01-download-for-ios/ /sparklite-1-01-download-for-ios.html
+Redirect 301 /category/ipad-pro-games/ /games.html
+
+Redirect 301 /here-are-10-local-or-same-split-screen-ipad-games-device-co-op-games-for-your-ipad-with-control-support.html /top-10-ipad-local-coop-games-with-control-support-2023.html
+
+Redirect 301 /category/ipad-pro-manual-pdf/ /ipad-user-guide-for-ios-9-3-pdf.html
+Redirect 301 /category/ipad-pro-specs/ /ipad-pro-specifications-and-features.html
+Redirect 301 /category/ipad-pro-tips/ /tips.html
